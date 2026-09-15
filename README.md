@@ -1,16 +1,27 @@
-## Hi there 👋
+hey Runi here (｡•̀ᴗ-)✧
 
-<!--
-**RuniMark/RuniMark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹ welcome to my profile ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 
-Here are some ideas to get you started:
+.⊹˖ᯓ★. ݁₊ **here we serve :**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Embedded systems & electronics
+- Computer hardware
+- Software
+- Digital design
+- Reverse engineering
+- questionable engineering decisions
+
+-.⊹˖ᯓ★. ݁₊ **currently cooking :**
+
+- 🔧 finishing something that actually works
+- 🧪 turning prototypes into proper projects
+- 💻 learning by breaking things (oofs)
+
+> *If it works, I probably haven't opened it up yet.*
+
+✦ ──────────────── ✦
+
+     作って、壊して、学ぶ。
+     Build. Break. Learn.
+
+✦ ──────────────── ✦
