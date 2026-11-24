@@ -1,5 +1,3 @@
-hey Runi here (｡•̀ᴗ-)✧
-
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹ welcome to my profile ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 
 .⊹˖ᯓ★. ݁₊ **here we serve :**
